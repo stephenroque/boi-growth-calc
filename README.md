@@ -2,10 +2,13 @@
 <div style="display: inline_block">
   <h1>Battle of the Immortals - Pet Growth Calculator</h1>
   <p>Going through my old projects I found this calculator developed in 2010. I decided to modernize it. After some work I got a good result. It's nothing too complex, but it was nice to review my old codes and remember the good times in Battle of the Immortals.</p>
+  <h2>Project</h2>
+  <a href="https://boi-growth-calc.vercel.app/"><img alt="Index Deskto"  src="https://github.com/stephenroque/boi-growth-calc/blob/main/src/img/ss.png"></a>
   <h2>Technologies</h2>
   <img align="center" alt="Stephen-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Stephen-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Stephen-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Stephen-GIMP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
   <img align="center" alt="Stephen-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Stephen-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <h2>Contact</h2>
